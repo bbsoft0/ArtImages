@@ -13,9 +13,13 @@ Demo site : http://artimages.herokuapp.com
 
 Uses ImageMagick with RVM
 
-Needs instalation of the ImageMagick package to function correctly:
+Implemented best practices:
+*All sensitive variables kept securely using Figaro - all secrets managed.
+*Needs instalation of the ImageMagick package to function correctly:
 
 sudo apt-get install imagemagick
+
+*Images saved to AWS S3 using Fog
 
 
 
