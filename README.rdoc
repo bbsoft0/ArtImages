@@ -3,9 +3,7 @@ ArtImages
 
 ArtImages is a simple dribbble like app build in Ruby on Rails.
 
-Demo site :
-
-[http://artimages.herokuapp.com/](http://artimages.herokuapp.com/)
+Demo site : http://artimages.herokuapp.com 
 
 User can login/signin
 User can add new images with title/link/description (Add new inspiration)
