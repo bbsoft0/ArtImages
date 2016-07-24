@@ -21,7 +21,7 @@ Implemented best practices:
 
     sudo apt-get install imagemagick
 
-  *Images saved to AWS S3 using Fog
+  *Images saved to Amazon Web Services S3 using Fog
 
 
 
