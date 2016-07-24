@@ -14,7 +14,9 @@ Demo site : http://artimages.herokuapp.com
 Uses ImageMagick with RVM
 
 Implemented best practices:
+
 *All sensitive variables kept securely using Figaro - all secrets managed.
+
 *Needs instalation of the ImageMagick package to function correctly:
 
 sudo apt-get install imagemagick
