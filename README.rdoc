@@ -1,6 +1,21 @@
 ArtImages
 =====================
 
+ArtImages is a simple dribbble like app build in Ruby on Rails.
+
+Demo site :
+
+[http://artimages.herokuapp.com/](http://artimages.herokuapp.com/)
+
+User can login/signin
+User can add new images with title/link/description (Add new inspiration)
+Visitors can view images
+Visitors can like/unlike the individual items.
+
+Uses ImageMagick with RVM
+Needs instalation of the ImageMagick package to function correctly:
+sudo apt-get install imagemagick
 
 
-UsesImageMagick with RVM
+
+
